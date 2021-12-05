@@ -1,0 +1,30 @@
+                     1st     2nd      3rd       prj      exm0      exm1
+______________________________________________________________________________________
+niklauswirth         100       95       95      0         85 
+joearmstrong         100       90       90      0         85
+linustorvalds        100      100      100      0         85
+andrewtridgell       100       95       20      0         95
+norbertwiener         20       20       20      0          0
+guidovanrossum       100       20       20      0         70
+billjoy                0      100       20      0         95
+edsgerdijkstra       100      100      100      0         85
+robpike               20       20       20      0         80
+peternaur            100      100       90      0         80
+aaronswartz            0        0        0      0         85
+margarethamilton     100       97       100     0         85
+adalovelace          100        0        0      0         60
+jamiezawinski        100      100       100     0         85
+johnmccarthy         100      100        80     0         85
+alfredaho            100       20        20     0         55
+johnbackus           100      100       100     0         80
+kenthompson          100      100       100     0         80
+paulvixie            100       97        0      0         90
+adelegoldberg        100       95        20     0         80
+donaldknuth            0        0         0     0          0
+fabricebellard       100       95        80     0         85
+paulgraham             0      100       100     0         85
+jeffreyullman        100       90        60     0         90
+andrewtanenbaum      100       80        20     0         85
+
+
+
