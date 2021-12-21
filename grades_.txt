@@ -10,10 +10,10 @@ robpike          100       90       80      0         80       90
 peternaur        100      100       90      0         80       85
 aaronswartz       80       80       80      0         85       65
 margarethamilton 100       97      100    100         85       90
-adalovelace      100        0       75      0         60       80
+adalovelace      100       30       75      0         60       80
 jamiezawinsk     100      100      100      0         85       85
 johnmccarthy     100      100       80    100         85       85
-alfredaho        100       20       50      0         55       90
+alfredaho        100       30       50      0         55       90
 johnbackus       100      100      100    100         80       85
 kenthompson      100      100      100      0         80       90
 paulvixie        100       97        0      0         90       85

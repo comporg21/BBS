@@ -10,10 +10,10 @@ robpike 88
 peternaur 90
 aaronswartz 78
 margarethamilton 94
-adalovelace 64
+adalovelace 69
 jamiezawinsk 93
 johnmccarthy 90
-alfredaho 65
+alfredaho 66
 johnbackus 91
 kenthompson 93
 paulvixie 77
